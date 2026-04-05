@@ -6,8 +6,8 @@ Program ini dibuat menggunakan ESP32 untuk:
 
 Dengan Fitur:
 1. Monitoring suhu dan kelembapan
-2. upload ke thinkspeak setiap 15 detik
-3. ketika suhu di atas 30 derajat, maka led akan menyala
+2. Upload ke thinkspeak setiap 15 detik
+3. Ketika suhu di atas 30 derajat, maka led akan menyala
 
 Tools:
 1. ESP 32
